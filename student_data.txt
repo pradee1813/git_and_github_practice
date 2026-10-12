@@ -1,0 +1,2 @@
+name="pradeesha"
+skills=[python,SQL]
